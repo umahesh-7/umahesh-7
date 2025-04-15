@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Mahesh
 
-🧠 Currently a Senior Software Engineer @ Cloud Data Systems
+🧠 Currently a Senior Software Engineer @ Cigna Healthcare
 
 🚀 Built responsive web apps that boosted user engagement by 45%
 
