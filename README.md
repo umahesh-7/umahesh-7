@@ -1,14 +1,11 @@
 ## 👋 Hi there, I'm Mahesh
 
-🧠 Currently a Senior Software Engineer @ Cigna Healthcare
+🧠 Currently a Software Engineer @ Omega Permits
 
 🚀 Built responsive web apps that boosted user engagement by 45%
 
 📈 Reduced downtime to under 1% using cloud-native CI/CD pipelines
 
-🔐 Engineered secure OAuth2-based APIs, cutting security risks
-
-🧪 Achieved 90%+ test coverage with Jest, Selenium, and Karma
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umahesh/) 
